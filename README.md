@@ -11,3 +11,5 @@ Key functions are as below:
   6. On-Hold Analysis
   7. Outage Analysis
   8. Idle Analysis
+
+I have used StreamLit framework.
